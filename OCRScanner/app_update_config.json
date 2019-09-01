@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "1.0.0",
-  "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/sample-debug.apk",
-  "update_log": "1 OCR智能文字识别。\r\n2 OCR智能文字识别记录查看。\r\n3 支持识别文字多语言翻译。\r\n4 识别后文字支持复制，校对，导出。\r\n5 可随时提出您的反馈优化建议。",
-  "target_size": "10M",
+  "new_version": "1.2.0",
+  "apk_file_url": "https://raw.githubusercontent.com/chenhong123b/ConfigProject/master/OCRScanner/com.hong.ocrscanner.apk",
+  "update_log": "1、修复了一些已知bug。\r\n2、完善了用户体验。\r\n",
+  "target_size": "7.4M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": false
 }
