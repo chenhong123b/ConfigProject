@@ -1,0 +1,26 @@
+{
+code: 200,
+message: "success",
+msg: "success",
+data: [
+{
+groupId: "FY20200101003",
+list: [
+{
+cityName: "Ö£ÖÝ",
+avgCustCountRate: "-73.96",
+avgSignAmountRate: "-63.55",
+score: "27.78",
+rank: "1"
+},
+{
+cityName: "ÄÏ¾©",
+avgCustCountRate: "-72.34",
+avgSignAmountRate: "-66.3",
+score: "27.18",
+rank: "2"
+}
+]
+},
+traceId: "3729f162962fbeef"
+}
