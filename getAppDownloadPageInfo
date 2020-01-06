@@ -2,7 +2,7 @@
 data: {
 appSlogan: "好工作 上智联招聘",
 appUpdateTime: "2019年12月20日",
-appVersion: "7.9.43",
+appVersion: "7.9.45",
 downloadUrl: "https://bigfile.zhaopin.cn/c-apk/zhaopin_mzhan.apk?_=1578300722877",
 featureLists: [
 "【职位推荐】智能推荐算法，为您筛选高匹配度职位；",
